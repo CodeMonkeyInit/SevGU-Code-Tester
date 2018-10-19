@@ -1,0 +1,22 @@
+﻿{
+  "ProgramFileName": "/usr/bin/php",
+  "ProgramArguments": "-f /Users/deniskuliev/Desktop/shet.php",
+  "//": "20 MB",
+  "MemoryLimitInBytes": 20000000,
+  "ExecutionTimeLimitInMs": 2000,
+  "ProcessUpdateFrequencyInMs": "1",
+  "TestRunData": [
+    {
+      "InputData": "33",
+      "ExpectedOutput": "66"
+    },
+    {
+      "InputData": "23",
+      "ExpectedOutput": "46"
+    },
+    {
+      "InputData": "13",
+      "ExpectedOutput": "26"
+    }
+  ]
+}
